@@ -22,3 +22,18 @@ font-size: 16px;
 padding: 20px;
 border: skyblue 1px solid;
 }
+
+.item:nth-child(1) {
+grid-column: span 2;
+}
+
+.item:nth-child(3) {
+grid-row: span 2;
+}
+
+.item:nth-child(4) {
+ grid-column: span 2;
+}
+
+.item:nth-child(5) {
+}
