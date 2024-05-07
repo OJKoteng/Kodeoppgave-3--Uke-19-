@@ -14,3 +14,11 @@ margin: 100px, auto;
 max-width: 1000px;
 padding: 10px;
 }
+
+.item {
+background-color: steelblue;
+color: white;
+font-size: 16px;
+padding: 20px;
+border: skyblue 1px solid;
+}
